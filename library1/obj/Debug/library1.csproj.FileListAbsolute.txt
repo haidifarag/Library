@@ -1,0 +1,9 @@
+C:\Users\haidi farag\Desktop\library1\library1\bin\Debug\library1.exe.config
+C:\Users\haidi farag\Desktop\library1\library1\bin\Debug\library1.exe
+C:\Users\haidi farag\Desktop\library1\library1\bin\Debug\library1.pdb
+C:\Users\haidi farag\Desktop\library1\library1\obj\Debug\library1.csprojAssemblyReference.cache
+C:\Users\haidi farag\Desktop\library1\library1\obj\Debug\library1.Properties.Resources.resources
+C:\Users\haidi farag\Desktop\library1\library1\obj\Debug\library1.csproj.GenerateResource.cache
+C:\Users\haidi farag\Desktop\library1\library1\obj\Debug\library1.csproj.CoreCompileInputs.cache
+C:\Users\haidi farag\Desktop\library1\library1\obj\Debug\library1.exe
+C:\Users\haidi farag\Desktop\library1\library1\obj\Debug\library1.pdb
